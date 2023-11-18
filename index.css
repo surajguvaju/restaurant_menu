@@ -175,7 +175,7 @@ a:active{
     bottom:0;
     color:var(--HEADER-COLOR);
     padding:var(--PADDING-TB) var(--PADDING-SIDE);
-    position:sticky;
+    position:fixed;
     text-align:center;
 }
 /*Main*/
