@@ -93,7 +93,7 @@ body{
     margin:0 auto;
     max-width: 800px;
     min-height: 100vh;
-    overflow-Y:hidden;
+   
 }
 h1,h2,h3{
     font-family: var(--FF-HEADINGS);
@@ -176,7 +176,7 @@ a:active{
     bottom:0;
     color:var(--HEADER-COLOR);
     padding:var(--PADDING-TB) var(--PADDING-SIDE);
-    position:fixed;
+    
     text-align:center;
 }
 /*Main*/
